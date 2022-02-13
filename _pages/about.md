@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-
+Hi, I'm Liv! I'm a mixed methods UX Researcher interested in Data Science, AI, and machine learning. 
