@@ -26,6 +26,16 @@ Work experience
   * Desc 1
   * Desc 2
   * Desc 3   
+
+* CA Technologies/Broadcom - April 2015 to June 2019: Senior UX Designer
+  * Desc 1
+  * Desc 2
+  * Desc 3
+
+* Geneva Tech/AIM Specialty Health - January 2012 to April 2015: Senior UX Designer
+  * Supported other product suites with usability testing and user research.
+  * Provided interaction design support for OptiNet product suite.
+  * Converted from contract to full time.   
   
 Skills
 ======
