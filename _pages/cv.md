@@ -20,16 +20,31 @@ Work experience
 * Wheels-Donlen - Feb 2020 to Current: Principal UX Architect
   * Provide research and interaction design guidance for the FleetView platform.
   * Lead the ResearchOps efforts for the Wheels UX Team.
-  * Mentor and assist junior UX team members.
+  * Mentor and assist junior UX team members with professional development.
+
+* STLarchitects - July 2019 to January 2020: Senior UX Designer/Design Psychologist
+  * Desc 1
+  * Desc 2
+  * Desc 3   
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Interactive protoyping
+* Mixed methods research
+  * Surveys
+  * Qualitative research
+  * Quantitative research
+  * Statistical analysis
+* Usability testing
+
+Languages and Software
+======
+* Python
+* R
+* Rstudio
+* JupyterLab
+* Axure
+* Omnigraffle
 
 Publications
 ======
