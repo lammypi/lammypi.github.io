@@ -14,8 +14,8 @@ __Tools Used__
 - JupyterLab: Web-based interactive development environment used to process and analyze qualitative data.
 - Python: Programming language used to process, clean, and analyze data.
 
-<object data="lammypi.github.io/files/CI_Report_Sample.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="lammypi.github.io/files/CI_Report_Sample.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="lammypi.github.io/files/CI_Report_Sample.pdf">Download PDF</a>.</p>
+<object data="/files/CI_Report_Sample.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/files/CI_Report_Sample.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/CI_Report_Sample.pdf">Download PDF</a>.</p>
     </embed>
 </object>
