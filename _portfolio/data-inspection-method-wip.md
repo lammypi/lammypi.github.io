@@ -4,7 +4,8 @@ excerpt: "A draft UX research methodology for understanding how humans interact 
 collection: portfolio
 ---
 
-A draft UX research methodology for understanding how humans interact with data. The project was never completed due to other internal efforts taking precedence.
+A draft UX research methodology for understanding how humans interact with data. The project was never completed due to other internal efforts taking precedence. You can view the main guide below. You can also view the draft interview guide [here.](/files/Data Inspection Method Interview Guide.pdf)
+
 
 <object data="/files/Data Inspection Method (WiP).pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/files/Data Inspection Method (WiP).pdf">
