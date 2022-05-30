@@ -1,6 +1,6 @@
 ---
 title: 'Applying Standardization vs. Normalization: A Primer for UXers Interested in Machine Learning'
-date: 2199-01-01
+date: 2022-30-05
 permalink: /posts/2022/05/blog-post-1/
 tags:
   - Statistics
